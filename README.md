@@ -14,4 +14,4 @@ Day 6 : strings problems practice
 
 Day 7 : continue practice
 
-Day 7 : continue practice
+Day 8 : continue practice
